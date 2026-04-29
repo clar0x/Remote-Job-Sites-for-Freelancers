@@ -247,3 +247,5 @@ Remote hiring trends and platform quality change over time. Some boards improve,
 ## Disclaimer
 
 This repository is for informational purposes only. Job availability, remote policies, hiring regions, sponsorship rules, and relocation support can change at any time. Always verify the details on the original job posting and the employer’s official careers page before applying.
+
+* Bullet point 5
